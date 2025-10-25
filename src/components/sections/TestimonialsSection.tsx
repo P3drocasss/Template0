@@ -170,7 +170,7 @@ export default function TestimonialsSection() {
             <span className="gradient-text text-glow">Results I can bring</span>
           </h2>
           <div className="flex justify-center">
-            <div className="max-w-xl w-full glass-intense rounded-xl p-4 hover-glow">
+            <div className="max-w-sm w-full glass-intense rounded-xl p-4 hover-glow">
               <img src="/assets/Result.jpg" alt="YouTube metrics showing improved results" className="w-full h-auto rounded-lg" />
             </div>
           </div>
